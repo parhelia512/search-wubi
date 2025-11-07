@@ -45,3 +45,27 @@ title: "五笔概述"
 - [五笔教程](./tutorial.md)
 - [进阶内容](./advanced.md)
 - [五笔字根](./roots.md)
+
+## 视频教程
+
+- [:link: 五笔打字教程 晓览 全15集 86版五笔](https://www.bilibili.com/video/BV14541187aP/)
+
+### 资源补充
+
+- 汉字跟打：
+  - 玫枫跟打器 [KyleBing/typepad](https://github.com/KyleBing/typepad) / [:link: kylebing.cn/tools/typepad/](http://kylebing.cn/tools/typepad/)
+  - 木易根打 [:link: typer.owenyang.top](https://typer.owenyang.top)
+  - 添雨跟打器老版本: [taliove/tygdq](https://github.com/taliove/tygdq)
+- 更多打字练习：
+  - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) / [:link: qwerty.kaiyi.cool](https://qwerty.kaiyi.cool)
+  - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) / [:link: monkeytype.com](https://monkeytype.com)
+  - [gamer-ai/eletypes-frontend](https://github.com/gamer-ai/eletypes-frontend) / [:link: eletypes.com](https://www.eletypes.com)
+  - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) / [:link: keybr.com](https://www.keybr.com/)
+  - [:link: typingclub.com](https://www.typingclub.com)
+- 输入法资料：
+  - [:link: ysepan.com 五笔输入法 86 版](http://86wb.ysepan.com)
+  - [:link: ysepan.com 98 五笔资源库](http://98wb.ysepan.com)
+  - [:link: ysepan.com 晓览-小拆五笔教程](http://gaokuan.ysepan.com)
+  - [:link: ysepan.com 五笔 文件分享](http://wubi.ysepan.com)
+- 工具：
+  - 五笔编码查询 [:link: iamwawa.cn/wubi.html](https://www.iamwawa.cn/wubi.html)
